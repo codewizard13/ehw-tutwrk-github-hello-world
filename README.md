@@ -3,8 +3,8 @@ GitHub Hello World repository to learn pull request and repository creation work
 
 <p>File Name:      README.md</p>
 <p>Date Created:   01/26/17</p>
-Date Modified:  01/26/17
-Programmer:     Eric Hepperle
+<p>Date Modified:  01/26/17</p>
+<p>Programmer:     Eric Hepperle</p>
 
-Purpose: This is the readme file for the hello-world repository.
+<p>Purpose: This is the readme file for the hello-world repository.</p>
 
